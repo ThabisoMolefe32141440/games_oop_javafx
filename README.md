@@ -11,3 +11,6 @@ All examples are popular games. (Chess, TicTacToe, SeeBattle and etc)
 ##Chess
 
 ![ScreenShot](images/Chess.png)
+
+### My Contribution
+     The source code provided shows a brief demonstration on how to use Object Oriented Programming to create the mentioned games(Chess, TicTacToe)
